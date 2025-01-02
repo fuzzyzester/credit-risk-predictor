@@ -1,7 +1,7 @@
 # Credit Risk Predictor
 
 ## Introduction
-This project aims to develop a predictive model to determine the likelihood of an individual obtaining a loan. Additionally, a user-friendly application has been created to enable users to input their personal information and connect to the model, receiving immediate feedback regarding their loan approval probability.
+We aimed to develop a predictive model to determine the likelihood of an individual obtaining a loan. Additionally, a user-friendly application has been created to enable users to input their personal information and connect to the model, receiving immediate feedback regarding their loan approval probability.
 
 ## Project Scope
 
